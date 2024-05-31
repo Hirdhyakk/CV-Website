@@ -2,6 +2,10 @@
 
 Welcome to my CV website project repository. This project showcases my personal CV through a web application built with HTML, CSS, and JavaScript.
 
+## Live Preview
+
+https://hirdhyakk.github.io/CV-Website/
+
 ## Introduction
 
 This project is a personal CV website that provides information about my professional background, skills, experience, and contact details. It is designed to be responsive and user-friendly.
